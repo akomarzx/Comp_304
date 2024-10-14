@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hands-On Test 1 COMP304 001</string>
+    <string name="brain_challenge_activity_title">Brain Challenge</string>
+    <string name="branch_challenge_caption">Challenge Your Brain with scientifically designed exercises</string>
+    <string name="brain_challenge_title">Brain Challenge</string>
+    <string name="select_exercises_button_text">SELECT EXERCISES</string>
+    <string name="logo_of_a_head_that_has_gears_caption">Logo of a head that has gears</string>
+    <string name="next_button_title">NEXT</string>
+    <string name="lose_things">Lose Things</string>
+    <string name="remember_names">Remember Names</string>
+    <string name="learn_things">Learn things quickly</string>
+    <string name="keep_track">Keep track of multiple things</string>
+    <string-array name="y_coordinates">
+        <item>0</item>
+        <item>100</item>
+        <item>50</item>
+        <item>150</item>
+        <item>100</item>
+    </string-array>
+</resources>
